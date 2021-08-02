@@ -1,6 +1,8 @@
 {
-"demo": {
-    "time": 5000,
-   
+
+  "profile": {
+	"id": 1,
+    "name": "typicode",
+	"timeout" : 5000
   }
 }
